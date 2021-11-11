@@ -1,0 +1,16 @@
+
+.jk{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color:gray;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: 10%;
+
+}
+
+.t{
+	text-align: center;
+}
